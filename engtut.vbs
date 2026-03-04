@@ -1,0 +1,8 @@
+x=msgbox("How to make a Minecraft server", 0+32, "TUTORIAL")
+x=msgbox("go to ur World folder (UR WORLD NEED BE OPEN IN LAN", 0+32, "1")
+x=msgbox("create a batch file called 'start'. Or download start.bat we made", 0+32, "2")
+x=msgbox("download Playit.gg :) DOWNLOAD LINK: https://playit.gg/", 0+32, "3")
+x=msgbox("download server.jar, and rename to servidor.jar if u download the start.bat", 0+32, "4")
+x=msgbox("move start.bat to your world folder (if u download start.bat), and move server.jar to your world folder", 0+32, "5")
+x=msgbox("start.bat if the batch file whats u can see ur server console. server.jar is a executable java file to start.bat run. Playit.gg is the program what mades u see people in server", 0+64, "FUNCTIONS")
+x=msgbox("start.bat or server.jar creates eula.txt", 0+64, "NOTE")
